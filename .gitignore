@@ -1,0 +1,15 @@
+# Ignore macOS metadata
+.DS_Store
+
+# Virtual environments
+CODIGO/venv/
+
+# Local folders not meant for the repository
+federicoalopez.github.io/
+ejemplos/
+
+# Python cache
+__pycache__/
+
+# Local environment
+CODIGO/.env
